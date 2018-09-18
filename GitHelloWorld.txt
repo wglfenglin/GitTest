@@ -3,6 +3,9 @@ This is a HelloWord text
 Today's weather is good
 a
 
+new line.
+
+Today is Tuesday.
 
 
 
